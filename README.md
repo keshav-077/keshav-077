@@ -1,19 +1,8 @@
-<div align="center">
-  <h1 style="font-family: 'Righteous', sans-serif; font-size: 35px;">Hi There! 👋</h1>
-  <p style="font-size: 20px;">Welcome to my GitHub page, I'm Keshavardhan! Feel free to explore my projects.</p>
-</div>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
-<style>
-  @keyframes blink {
-    0% { opacity: 1; }
-    50% { opacity: 0; }
-    100% { opacity: 1; }
-  }
-
-  h1 {
-    animation: blink 1s infinite;
-  }
-</style>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+keshav!;" />
+</h1>
 
 
 
