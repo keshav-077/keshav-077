@@ -64,6 +64,26 @@ I am a driven and passionate Computer Science Engineering student specializing i
 <a href="https://dialogflow.cloud.google.com/" target="_blank" rel="noreferrer">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPW93u4inH4uezzIkrf_IwOEAxBV4vw6wm_A&s" width="36" height="36" alt="Google Dialogflow" />
 </a>
+<!-- Google Cloud -->
+<a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="38" height="38" alt="Google Cloud" />
+</a>
+
+<!-- Azure -->
+<a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="38" height="38" alt="Azure" />
+</a>
+
+<!-- AWS -->
+<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="38" height="38" alt="AWS" />
+</a>
+
+<!-- Colab -->
+<a href="https://colab.research.google.com/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/1280px-Google_Colaboratory_SVG_Logo.svg.png" width="38" height="38" alt="Colab" />
+</a>
+
 </p>
 
 
