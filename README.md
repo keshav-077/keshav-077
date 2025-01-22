@@ -81,7 +81,7 @@ I am a driven and passionate Computer Science Engineering student specializing i
 
 <!-- Colab -->
 <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer">
-  <img src="https://w7.pngwing.com/pngs/968/991/png-transparent-google-colab-logo-tech-companies.png" width="41" height="39" alt="Colab" />
+  <img src="https://i.namu.wiki/i/zKS7LsOc2A4ZZR64XnAm8S88HbszoXQPH_T7CY3KFwfwJtemXQwc4Nu3tx5GavmyG-wmgcKs_PfqYbY8xg3iow.webp" width="41" height="39" alt="Colab" />
 </a>
 
 </p>
