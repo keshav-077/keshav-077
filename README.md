@@ -62,7 +62,7 @@ I am a driven and passionate Computer Science Engineering student specializing i
 
 <!-- Google Dialogflow -->
 <a href="https://dialogflow.cloud.google.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dialogflow-colored.svg" width="36" height="36" alt="Google Dialogflow" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPW93u4inH4uezzIkrf_IwOEAxBV4vw6wm_A&s" width="36" height="36" alt="Google Dialogflow" />
 </a>
 </p>
 
