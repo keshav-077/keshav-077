@@ -25,7 +25,7 @@ I am a driven and passionate Computer Science Engineering student specializing i
 <p align="left">
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="40" height="40" alt="Python" style="margin-right: 10px;" /></a>
   <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" width="40" height="40" alt="R" style="margin-right: 10px;" /></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/6/61/MySQL_logo.png" width="40" height="40" alt="MySQL" style="margin-right: 10px;" /></a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="[https://upload.wikimedia.org/wikipedia/commons/6/61/MySQL_logo.png](https://www.mysql.com/common/logos/logo-mysql-170x115.png)" width="40" height="40" alt="MySQL" style="margin-right: 10px;" /></a>
   <a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/8/88/NumPy_logo_2020.svg" width="40" height="40" alt="NumPy" style="margin-right: 10px;" /></a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Pandas_logo.svg" width="40" height="40" alt="pandas" style="margin-right: 10px;" /></a>
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40" alt="scikit-learn" style="margin-right: 10px;" /></a>
