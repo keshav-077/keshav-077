@@ -17,7 +17,8 @@ I am a driven and passionate Computer Science Engineering student specializing i
 * 👨‍💻 All of my projects are available at [https://github.com/keshav-077](https://github.com/keshav-077)
 * 📄 Know about my experiences [https://1drv.ms/w/s!AmtbCuzfTyrfw80VYWfLNC7ETgV7Lw?e=azaktK](https://1drv.ms/w/s!AmtbCuzfTyrfw80VYWfLNC7ETgV7Lw?e=azaktK)
 
-### Skills
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
 
 <p align="left">
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
@@ -85,8 +86,8 @@ I am a driven and passionate Computer Science Engineering student specializing i
 </a>
 
 </p>
-
-
+<br/>
+<hr/>
 
 ### Socials
 
