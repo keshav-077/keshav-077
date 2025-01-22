@@ -48,7 +48,7 @@ I am a driven and passionate Computer Science Engineering student specializing i
 </p>
 <!-- VS Code -->
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vscode-colored.svg" width="36" height="36" alt="VS Code" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="38" height="38" alt="VS Code" />
 </a>
 
 <!-- React JS -->
