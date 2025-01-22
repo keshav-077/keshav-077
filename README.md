@@ -46,6 +46,25 @@ I am a driven and passionate Computer Science Engineering student specializing i
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bash-colored.svg" width="36" height="36" alt="BASH" /></a>
 </p>
+<!-- VS Code -->
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vscode-colored.svg" width="36" height="36" alt="VS Code" />
+</a>
+
+<!-- React JS -->
+<a href="https://react.dev/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
+</a>
+
+<!-- Kaggle -->
+<a href="https://www.kaggle.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kaggle-colored.svg" width="36" height="36" alt="Kaggle" />
+</a>
+
+<!-- Google Dialogflow -->
+<a href="https://dialogflow.cloud.google.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dialogflow-colored.svg" width="36" height="36" alt="Google Dialogflow" />
+</a>
 
 
 
