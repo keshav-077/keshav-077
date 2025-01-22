@@ -21,7 +21,7 @@ I am a driven and passionate Computer Science Engineering student specializing i
 
 <p align="left">
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://iconscout.com/contributors/icon-mafia"  width="36" height="36" alt="R" /></a>
+  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=ddMdoLrkgZkC&format=png&color=000000"  width="36" height="36" alt="R" /></a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
   <a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/numpy-colored.svg" width="36" height="36" alt="NumPy" /></a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pandas-colored.svg" width="36" height="36" alt="pandas" /></a>
