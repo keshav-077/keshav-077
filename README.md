@@ -53,12 +53,12 @@ I am a driven and passionate Computer Science Engineering student specializing i
 
 <!-- React JS -->
 <a href="https://react.dev/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="38" height="38" alt="React" />
 </a>
 
 <!-- Kaggle -->
 <a href="https://www.kaggle.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kaggle-colored.svg" width="36" height="36" alt="Kaggle" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original.svg" width="38" height="38" alt="Kaggle" />
 </a>
 
 <!-- Google Dialogflow -->
