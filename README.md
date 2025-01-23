@@ -5,7 +5,7 @@
 
 
 
-Artificial Intelligence and Machine learning Student
+Artificial Intelligence and Machine Learning Student
 ----------------------------------------------------
 
 I am a driven and passionate Computer Science Engineering student specializing in Artificial Intelligence and Machine Learning at the Indian Institute of Information Technology Nagpur. With a strong background in machine learning, deep learning, computer vision, and NLP, I’ve sharpened my expertise through academic coursework and hands-on projects. Skilled in Python, R, and SQL, I have extensive experience with frameworks like TensorFlow, PyTorch, and Keras, which I’ve used to develop innovative solutions. My work includes building AI-powered systems for AI-Driven-Border-Security-and-Strategic-Management-System, crop disease detection, and sign language recognition, demonstrating my ability to tackle real-world problems effectively.
