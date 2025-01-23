@@ -85,7 +85,7 @@ I am a driven and passionate Computer Science Engineering student specializing i
 </a>
 
 </p>
-<br/>
+
 <hr/>
 
 <h2 align="center"> 🌐 Connect with Me 🍬 </h2>
