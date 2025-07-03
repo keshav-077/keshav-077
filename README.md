@@ -14,7 +14,7 @@ I am a driven and passionate Computer Science Engineering student specializing i
 * ✉️  You can contact me at [kesavardhan775@gmail.com](mailto:kesavardhan775@gmail.com)
 * 🧠  I'm learning Generative AI
 * 👨‍💻 All of my projects are available at [https://github.com/keshav-077](https://github.com/keshav-077)
-* 📄 Know about my experiences <a href="Mini Project Report_Final.pdf" target="_blank">📘 My Resume </a>
+* 📄 Know about my experiences <a href="IIITN_RESUME_NEW (1).pdf" target="_blank">📘 My Resume </a>
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
