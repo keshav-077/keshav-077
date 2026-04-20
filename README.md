@@ -2,42 +2,57 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!+👋;+I'm+Keshav!;" />
 </h1>
 
-<h3 align="center">Artificial Intelligence and Machine Learning Student</h3>
+<h3 align="center">🚀 Artificial Intelligence & Machine Learning Engineer</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=keshav-077&label=Profile%20Views&color=blue&style=flat" />
+</p>
 
 ---
 
-## 🚀 About Me
+## 🧠 About Me
 
-I am a driven and passionate Computer Science Engineering student specializing in **Artificial Intelligence and Machine Learning** at the **Indian Institute of Information Technology Nagpur**.
+I am a passionate Computer Science Engineering student specializing in **Artificial Intelligence and Machine Learning** at the **Indian Institute of Information Technology Nagpur**.
 
-With a strong foundation in:
-- Machine Learning  
-- Deep Learning  
-- Artificial Intelligence  
-- Computer Vision  
-- Natural Language Processing  
-
-I have built impactful, real-world AI solutions through hands-on projects and academic work.
+I focus on building **intelligent systems** that solve real-world problems using:
+- 🤖 Machine Learning & Deep Learning  
+- 👁️ Computer Vision  
+- 🗣️ Natural Language Processing  
+- ⚡ Generative AI
 
 ---
 
-## 💡 Projects & Work
+## ⚡ What I Do
 
-Some of my notable work includes:
-- 🤖 AI-Driven Border Security & Strategic Management System  
-- 🌱 Crop Disease Detection  
-- ✋ Sign Language Recognition  
-- 🌐 Language Translation  
-- 📝 Text Summarization  
+<p align="center">
 
-These projects reflect my ability to solve real-world problems using AI.
+🧠 Build AI Models & Intelligent Systems  
+📊 Work with Data, Visualization & Insights  
+🌐 Develop Full-Stack AI Applications  
+☁️ Deploy Models on Cloud Platforms  
+🚀 Explore Generative AI & LLMs  
+
+</p>
+
+---
+
+## 📊 GitHub Insights
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=keshav-077&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=keshav-077&theme=tokyonight" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshav-077&layout=compact&theme=tokyonight" height="150"/>
+</p>
 
 ---
 
 ## 📍 Personal Info
 
 - 🌍 Based in **Visakhapatnam**  
-- ✉️ Email: **[kesavardhan775@gmail.com](mailto:kesavardhan775@gmail.com)**  
+- ✉️ Email: **[keshavardhan777@gmail.com](mailto:keshavardhan777@gmail.com)**  
 - 🧠 Currently learning **Generative AI**  
 - 👨‍💻 Projects: https://github.com/keshav-077  
 - 📄 Resume: [📘 My Resume](Kesav-Resume.pdf)  
@@ -48,7 +63,6 @@ These projects reflect my ability to solve real-world problems using AI.
 
 <p align="center">
 
-<!-- Core Languages -->
 <a href="https://www.python.org/" target="_blank">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="40"/>
 </a>
@@ -59,7 +73,6 @@ These projects reflect my ability to solve real-world problems using AI.
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="40"/>
 </a>
 
-<!-- Data Science -->
 <a href="https://numpy.org/" target="_blank">
   <img src="https://img.icons8.com/?size=100&id=aR9CXyMagKIS&format=png&color=000000" width="40"/>
 </a>
@@ -70,7 +83,6 @@ These projects reflect my ability to solve real-world problems using AI.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="40"/>
 </a>
 
-<!-- Visualization -->
 <a href="https://matplotlib.org/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original-wordmark.svg" width="40"/>
 </a>
@@ -78,7 +90,6 @@ These projects reflect my ability to solve real-world problems using AI.
   <img src="https://cdn.worldvectorlogo.com/logos/seaborn-1.svg" width="40"/>
 </a>
 
-<!-- CV & NLP -->
 <a href="https://opencv.org/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" width="40"/>
 </a>
@@ -92,7 +103,6 @@ These projects reflect my ability to solve real-world problems using AI.
   <img src="https://numfocus.org/wp-content/uploads/2018/01/gensim-circle.png" width="40"/>
 </a>
 
-<!-- ML/DL -->
 <a href="https://keras.io/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" width="40"/>
 </a>
@@ -106,7 +116,6 @@ These projects reflect my ability to solve real-world problems using AI.
   <img src="https://img.icons8.com/?size=100&id=sop9ROXku5bb&format=png&color=000000" width="40"/>
 </a>
 
-<!-- Backend & Frontend -->
 <a href="https://flask.palletsprojects.com/" target="_blank">
   <img src="https://img.icons8.com/?size=100&id=ewGOClUtmFX4&format=png&color=000000" width="40"/>
 </a>
@@ -117,7 +126,6 @@ These projects reflect my ability to solve real-world problems using AI.
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="40"/>
 </a>
 
-<!-- Tools -->
 <a href="https://git-scm.com/" target="_blank">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="40"/>
 </a>
@@ -131,7 +139,6 @@ These projects reflect my ability to solve real-world problems using AI.
   <img src="https://img.icons8.com/?size=100&id=Ny0t2MYrJ70p&format=png&color=000000" width="40"/>
 </a>
 
-<!-- OS & Shell -->
 <a href="https://www.linux.org/" target="_blank">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="40"/>
 </a>
@@ -139,7 +146,6 @@ These projects reflect my ability to solve real-world problems using AI.
   <img src="https://img.icons8.com/?size=100&id=50ZQHdJTmPqw&format=png&color=000000" width="40"/>
 </a>
 
-<!-- Cloud -->
 <a href="https://cloud.google.com/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="40"/>
 </a>
@@ -150,7 +156,6 @@ These projects reflect my ability to solve real-world problems using AI.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/>
 </a>
 
-<!-- Others -->
 <a href="https://www.kaggle.com/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original.svg" width="40"/>
 </a>
