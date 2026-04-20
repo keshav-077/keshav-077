@@ -2,7 +2,11 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!+👋;+I'm+Keshav!;" />
 </h1>
 
-<h3 align="center">🚀 Artificial Intelligence & Machine Learning Engineer</h3>
+<h3 align="center">🚀 AI Engineer | ML • GenAI • Computer Vision • NLP</h3>
+
+<p align="center">
+  Building real-world AI systems that solve impactful problems 🚀
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=keshav-077&label=Profile%20Views&color=blue&style=flat" />
@@ -18,7 +22,7 @@ I focus on building **intelligent systems** that solve real-world problems using
 - 🤖 Machine Learning & Deep Learning  
 - 👁️ Computer Vision  
 - 🗣️ Natural Language Processing  
-- ⚡ Generative AI
+- ⚡ Generative AI  
 
 ---
 
@@ -32,6 +36,24 @@ I focus on building **intelligent systems** that solve real-world problems using
 ☁️ Deploy Models on Cloud Platforms  
 🚀 Explore Generative AI & LLMs  
 
+</p>
+
+---
+
+## 🔭 Current Focus
+
+- 🔭 Working on **Generative AI & LLM-based Applications**  
+- 👯 Open to collaborate on **AI / ML / Open Source Projects**  
+- 🤝 Interested in building **production-level AI systems**  
+
+---
+
+## 🌐 Portfolio & Profiles
+
+<p align="center">
+  🌐 Portfolio: <a href="https://kesavmakireddi.lovable.app/">Visit Website</a> &nbsp; | &nbsp;
+  📊 Kaggle: <a href="https://www.kaggle.com/kesavardhanmakireddy">Profile</a> &nbsp; | &nbsp;
+  💬 Discord: <b>keshav775</b>
 </p>
 
 ---
@@ -55,7 +77,9 @@ I focus on building **intelligent systems** that solve real-world problems using
 - ✉️ Email: **[keshavardhan777@gmail.com](mailto:keshavardhan777@gmail.com)**  
 - 🧠 Currently learning **Generative AI**  
 - 👨‍💻 Projects: https://github.com/keshav-077  
-- 📄 Resume: [📘 My Resume](Kesav-Resume.pdf)  
+- 📄 Resume: 
+  - [📘 Local Resume](Kesav-Resume.pdf)  
+  - [🌐 View Resume Online](https://drive.google.com/file/d/1NBP9LMeBJG-CN9U56Hy3QHj5o6vcJTcK/view?usp=sharing)
 
 ---
 
