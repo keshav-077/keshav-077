@@ -439,9 +439,7 @@ class KesavardhanMakireddi:
 
 <br/>
 
-🥇 &nbsp; **Top 5 Finisher** out of 120 Teams — Hackbyte 3.0 Hackathon *(IIITDM Jabalpur)*
-
-🏅 &nbsp; **Top 10** — Workato AI Automation Hackathon
+<img src="./achievements.svg" alt="Achievements" width="100%"/>
 
 </div>
 
