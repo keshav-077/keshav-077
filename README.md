@@ -411,21 +411,7 @@ class KesavardhanMakireddi:
 
 <div align="center">
 
-## 📊 GitHub Stats
 
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=keshav-077&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff&ring_color=00d4ff&include_all_commits=true&count_private=true" height="180"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=keshav-077&theme=radical&hide_border=true&background=0d1117&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff&sideLabels=ffffff&dates=888888" height="180"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshav-077&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&langs_count=10" height="150"/>
-
-</div>
-
----
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                   TROPHIES & ACHIEVEMENTS                     -->
