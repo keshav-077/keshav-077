@@ -28,7 +28,7 @@
 <a href="https://www.kaggle.com/kesavardhanmakireddy">
   <img src="https://img.shields.io/badge/Kaggle-%2320BEFF.svg?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
 </a>
-<a href="https://kesavmakireddi.lovable.app/">
+<a href="https://keshavardhan-makireddi-portfolio.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-%23FF6B6B.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
 <a href="mailto:keshavardhan777@gmail.com">
